@@ -1,0 +1,19 @@
+<html>
+<head>
+   <title>Get date and time in JavaScript.</title>
+</head>
+<body>
+   <h2>8) Write a Javascript program to display the current date and time.</h2>
+   
+   <div id="date"> </div>
+   
+   <script>
+      let date = document.getElementById("date");
+      let newDate = new Date();
+      let year = newDate.getFullYear();
+      let month = newDate.getMonth();
+      let todaySDate = newDate.getDate();
+      date.innerHTML = " " + todaySDate + "/ " + month + "/ " + year;
+   </script>
+</body>
+</html>
