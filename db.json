@@ -1,0 +1,139 @@
+{
+  "defects": [
+    {
+      "defectcategory": "Functional",
+      "description": "While submitting the form data , a conformation popup should appear",
+      "priority": "1",
+      "status": true,
+      "id": 1
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "Add Remove user functionality",
+      "priority": "3",
+      "status": true,
+      "id": 2
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "Anything",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 4
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "asasa",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 5
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "asdas",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 6
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "hdsakdskj",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 7
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "saddsad",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 9
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "dfsf",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 10
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "kdsakjdslkjalkjds",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 11
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "kjsahkds",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 12
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "kjdsksa",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 13
+    },
+    {
+      "defectcategory": "Functional",
+      "description": "hjsdadas",
+      "priority": "3",
+      "status": true,
+      "user": "Aditya",
+      "id": 15
+    },
+    {
+      "defectcategory": "UI",
+      "description": "jakksa",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 16
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "kksahsha",
+      "priority": "1",
+      "status": true,
+      "user": "Aditya",
+      "id": 17
+    },
+    {
+      "defectcategory": "Change Request",
+      "description": "kjskjadkj",
+      "priority": "2",
+      "status": true,
+      "user": "Aditya",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "username": "Aditya",
+      "password": "Aditya@9699",
+      "id": 1
+    },
+    {
+      "username": "Sumit",
+      "password": "Sumit@9699",
+      "id": 2
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 3
+    }
+  ]
+}
