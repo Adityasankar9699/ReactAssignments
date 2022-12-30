@@ -1,0 +1,42 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "You are doing good"
+    },
+    {
+      "id": 2,
+      "message": "Stand in front of the mirror"
+    },
+    {
+      "id": 3,
+      "message": "Today i leave behind all my past"
+    }
+  ],
+  "todos": [
+    {
+      "task": "Complete all videos",
+      "prerequisites": "javascript,html",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "task": "Learn react",
+      "prerequisites": "javascript",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "task": "Project",
+      "prerequisites": "react",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "task": "D",
+      "prerequisites": ".net",
+      "isDone": false
+    }
+  ]
+}
